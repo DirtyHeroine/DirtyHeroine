@@ -5,21 +5,21 @@ Casual Programmer
 -----------------
 
 Coding and programming as a hobby.<br/>
-Applications / Webs / Bots / Plugins<br/>
+Applications / Webs / Bots / Plugins / Devices as Arduino<br/>
 
 ---
 
 _I created app for my company to read drivers in entire city.<br/>
 I created bots for discord servers.<br/>
-I created arduino-module to my computer, now I can run it remotely (i know electronics too)<br/>
+I created arduino-module for my computer, now I can run it remotely (i know electronics too)<br/>
 I created plugins for my friend to minecraft game_
 
 ---
 
 * 🌍  I'm based in Rzeszów (Poland)
 * 🖥️  See my portfolio at [I dont have portoflio xD](http://google.com)
-* 🧠  I'm learning NodeJS
-* 🤝  I'm open to collaborating on everything but on junior lvl
+* 🧠  I'm learning NodeJS / Java / C# / JavaScript
+* 🤝  I'm open to collaborating on everything on junior lvl
 * ⚡  Don't touch my spaghetti
 
 ### Skills
