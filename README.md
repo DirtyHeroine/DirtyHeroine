@@ -16,7 +16,7 @@ I created plugins for my friend to minecraft game_
 
 ---
 
-* 🌍  I'm based in Rzeszów (Poland)
+* 🌍  I'm living in Poland
 * 🖥️  See my portfolio at [I dont have portoflio xD](http://google.com)
 * 🧠  I'm learning NodeJS / Java / C# / JavaScript
 * 🤝  I'm open to collaborating on everything on junior lvl
